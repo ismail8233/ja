@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    width: 1220px;
+}
+.main1{
+    background-color: #F3D7B7;
+    height: 800px;
+}
+.div1{
+display: flex;
+justify-content: space-between;
+padding-top: 22px;
+align-items: center;
+}
+.div1 ul{
+    display: flex;
+    gap: 40px;
+}
+.div1 li{
+    list-style: none;
+}
+.div1 nav a{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.06px;
+    letter-spacing: 1px;
+    color: #333333;
+    
+}
+.div2{
+    width: 464px;
+height: 367px;
+
+}
+.section1{
+    padding-top: 130px;
+    display:flex;
+}
+.div2 h2{
+    font-family: sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 75px;
+
+
+}
+.div2 p{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-top: 47px;
+
+}
+.div2 button{
+    width: 193px;
+height: 51px;
+color: white;
+background-color: #0A775F;
+border-radius: 100px ;
+border: none;
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+letter-spacing: 1px;
+margin-top: 47px;
+
+}
+.img1{
+    transform: translate(192px );
+    position: relative;
+}
+.img2{
+    position: absolute;
+    right: 580px;
+    top: 90px;
+    transform: rotate(-8deg);
+}
+.section2 {
+    padding-top: 108px;
+}
+.section2 h2{
+    font-family: sans-serif;
+font-size: 50px;
+font-weight: 700;
+line-height: 58.59px;
+display: flex;
+justify-content: center;
+text-transform:uppercase;
+margin-bottom: 42px;
+}
+.main2{
+    background-image: url(img/Group\ 3615.png);
+
+}
+.box{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.box2 h3{
+    font-family: sans-serif;
+font-size: 48px;
+font-weight: 500;
+line-height: 56.25px;
+margin-bottom: 10px;
+
+}
+.box2 p{
+    font-family: sans-serif;
+font-size: 22px;
+font-weight: 400;
+line-height: 34px;
+width: 454.26px;
+height: 68px;
+}
+.img3{
+    width: 451.25px;
+height: 375px;
+
+}
+.box2 {
+    margin: 0px 112px;
+}
+footer{
+    background-color:#F3D7B7 ;
+    height: 160px;
+    padding-top: 62px;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div3 ul{
+    display: flex;
+    gap: 30px;
+
+}
+.ul1{
+    display: flex;
+    gap: 40px;
+}
+.div3 li{
+    list-style: none;
+}
+.ul1 li{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.75px;
+    letter-spacing: 1px;
+   
+      
+}
